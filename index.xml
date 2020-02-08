@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="styling.css"?> 
+<songs> 
+    <title>"The Classics" Cover Band Set List </title> 
+    <song> 
+        <name>Title: Beast of Burden</name> 
+        <artist>Artist: The Rolling Stones</artist> 
+        <genre>Genre: Rock and Roll</genre> 
+        <year>Year of Release: 1978</year> 
+    </song> 
+    <song> 
+        <name>Title: Tiny Dancer</name> 
+        <artist>Artist: Elton John</artist> 
+        <genre>Genre: Pop</genre> 
+        <year>Year of Release: 1972</year> 
+    </song> 
+    <song> 
+        <name>Title: (Sittin’ On) The Dock Of The Bay</name>        
+        <artist>Artist: Otis Redding</artist> 
+        <genre>Genre: Soul, Pop</genre> 
+        <year>Year of Release: 1967</year> 
+    </song> 
+    <song> 
+        <name>Title: Let it Be</name>
+        <artist>Artist: The Beatles</artist>  
+        <genre>Genre: Rock</genre> 
+        <year>Year of Release: 1970</year> 
+    </song>    
+    <song> 
+        <name>Title: Lithium</name> 
+        <artist>Artist: Nirvana</artist> 
+        <genre>Genre: Grunge Rock</genre> 
+        <year>Year of Release: 1991</year> 
+    </song>
+    <song> 
+        <name>Title: London Calling</name> 
+        <artist>Artist: The Clash</artist> 
+        <genre>Genre: Punk Rock</genre> 
+        <year>Year of Release: 1979</year> 
+    </song>  
+    <song> 
+        <name>Title: What a Wonderful World</name>
+        <artist>Artist: Louis Armstrong</artist>  
+        <genre>Genre: Jazz</genre> 
+        <year>Year of Release: 1968</year> 
+    </song>     
+    <song> 
+        <name>Title: Imagine</name>
+        <artist>Artist: John Lennon</artist> 
+        <genre>Genre: Rock</genre> 
+        <year>Year of Release: 1971</year> 
+    </song>        
+    <song> 
+        <name>Title: Jack and Diane</name> 
+        <artist>Artist: John Mellencamp</artist> 
+        <genre>Genre: Rock</genre> 
+        <year>Year of Release: 1982</year> 
+    </song>        
+    <song> 
+        <name>Title: No Woman, No Cry</name> 
+        <artist>Artist: Bob Marley</artist> 
+        <genre>Genre: Reggae</genre> 
+        <year>Year of Release: 1975</year> 
+    </song>     
+</songs> 
